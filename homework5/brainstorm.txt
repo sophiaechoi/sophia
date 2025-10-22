@@ -1,0 +1,27 @@
+- Animation physics: how to make online objects obey real-world laws like gravity, torque, and basic kinematics
+- Light (refraction, light curves)
+- Black holes and how time dilation appears to the outside eye
+- Magnetism (visualized magnetic fields or coding magnetic attraction)
+- Supernovae
+
+https://www.youtube.com/watch?v=ErMSHiQRnc8&t=419s
+- idea inspired by this video
+- would probably be made through diagrams and very basic coding Animation
+- would go through basic concepts, explaining them with figures and diagrams
+- like this: https://winter.dev/articles/physics-engine
+
+https://testtubegames.com/blackhole.html
+https://www.esa.int/gsp/ACT/phy/Projects/Blackholes/WebGL/
+https://science.nasa.gov/universe/black-holes/
+- Project would be an interactive diagram describing what happens at each distance from the center of a black hole
+- visual/mathematical explanation
+
+https://www.youtube.com/watch?v=OBU-gn0dy1E 
+https://phet.colorado.edu/en/simulations/magnets-and-electromagnets
+- I think that I would either do what these links did and visualize a magnetic field, or I would just code two basic point charges with varying charges/masses to attract/repel each other
+
+Topic 1: Can use for loops to show certain items when a specific object is interacted with (ie. putting a ball on the ground would show an upwards normal force), mathematical functions to solve and display things like velocity, displacement, and calculate force
+- can use github packages to import all visual aspects that would be difficult to code otherwise
+
+Unrealistic idea: Create a game where you can move an object around with your cursor and perform different actions with it. Similar to the first video link, the game will show you what forces/equations your object goes through as it performs different actions. There could be springs, ropes to hang itself on, pulleys, etc.
+realistic idea: Do something similar but more simplified. Maybe instead of being able to move the object around you can click different items which tell you what they do and how they work. Or, the screen will just show you the free-body diagram of the object as you move it around.
